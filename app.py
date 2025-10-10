@@ -5,7 +5,7 @@ import numpy as np
 import plotly.graph_objects as go
 
 # Load the saved Linear Regression model
-with open("diabetes_linear_model (1).pkl", "rb") as f:
+with open("diabetes_linear_model.pkl", "rb") as f:
     model = pickle.load(f)
 
 # Page config
