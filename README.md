@@ -1,3 +1,7 @@
+link for opening the project file :- https://diabetesprediction-772w4f6jzfx8d83yazgmis.streamlit.app/
+
+---
+
 # 🩺 Diabetes Prediction App
 
 ![Project Badge](https://img.shields.io/badge/Project-Diabetes%20Prediction-blue)
